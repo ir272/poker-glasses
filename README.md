@@ -1,6 +1,12 @@
 # poker-glasses
 AI Poker Glasses
 
+
+new to do:
+- use UV light pen to write on cards
+- cast uv pen or smth above
+- have camera above capture it or smth
+  
 to do:
 
 - borrow glasses, or buy
